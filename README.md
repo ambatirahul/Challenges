@@ -1,2 +1,2 @@
-# take-home-challenges
-Take home challenges
+# Challenges
+This folder contains data science challenges.
